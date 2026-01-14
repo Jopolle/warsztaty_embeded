@@ -1,0 +1,15 @@
+Co przygotować:
+Laptop z zainstalowanym softem Arduino IDE https://www.arduino.cc/en/software/
+
+nieobowiązkowy software: GIT https://git-scm.com/install/
+
+
+
+Dodatkowo, jeżeli ktoś ma:
+kable goldpin
+płytki stykowe
+dowolne płytki arduino/esp32
+
+
+Przed warsztatami tutaj znajdzie się link do githuba z gotowymi przykładami
+
